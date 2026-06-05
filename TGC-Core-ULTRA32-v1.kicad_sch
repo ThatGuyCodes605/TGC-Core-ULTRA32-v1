@@ -5315,6 +5315,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "USB to Serial"
+		(exclude_from_sim no)
+		(at 151.892 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "d587a40b-1327-4f3c-a47b-968d381311b3")
+	)
 	(junction
 		(at 90.17 99.06)
 		(diameter 0)
