@@ -3,7 +3,7 @@
 ![Board Render](image_3c0a04.png)
 
 ## Overview
-The **TGC-Core-ULTRA32-v1** is an open-source, high-performance hardware development core board based on the **ESP32** platform. Engineered for wireless application prototyping and IoT deployment, this board breaks out the processing power of a dual-core microcontroller alongside dedicated onboard power regulation and a USB-to-UART programming bridge.
+The **TGC-Core-ULTRA32-v1** is an open-source, high-performance hardware development core board based on the **ESP32** platform. Engineered for wireless application prototyping and IoT deployment, [...]
 
 This repository contains the complete set of KiCad EDA files (version 10.0) necessary to view, modify, or manufacture the printed circuit board (PCB).
 
@@ -54,13 +54,13 @@ Because this core board uses standard ESP32-WROOM-32 pinouts and a CP2102N UART 
 
 ## License
 
-This hardware design and its accompanying documentation are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** Public License.
+This hardware design and its accompanying documentation are licensed under the **GNU General Public License v3.0 (GPL-3.0-or-later)**.
 
-**You are free to:**
-* **Share** — copy and redistribute the material in any medium or format.
-* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+Summary of your rights under GPLv3:
+* You are free to use, study, share, and modify the material.
+* If you distribute the work (or a derivative), you must license the whole work under GPLv3 as well (share-alike).
+* You must provide source for distributed derivative works and include the GPLv3 license text and copyright notices.
 
-**Under the following terms:**
-* **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+For the full legal text, see the GNU licenses page: https://www.gnu.org/licenses/gpl-3.0.html
 
-For the full legal text, please visit the [Creative Commons Website](https://creativecommons.org/licenses/by/4.0/).
+Note: To make the change complete, consider adding a `LICENSE` file containing the full GPLv3 text and an explicit copyright line (for example: "Copyright (c) 2026 ThatGuyCodes605"). I can add that file for you if you want.
